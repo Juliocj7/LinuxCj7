@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210817-000249_Termux](https://user-images.githubusercontent.com/81049859/129822472-46fa81f6-3bce-4a5a-b74e-47e966bffcd3.png)
+![Screenshot_20220523-171009_Termux](https://user-images.githubusercontent.com/81049859/169906640-946873bd-b677-4477-92cb-48de4a77ef6b.png)
+
 
 
 ## LinuxCj7 :
