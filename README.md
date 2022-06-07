@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,11 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220523-171009_Termux](https://user-images.githubusercontent.com/81049859/169906640-946873bd-b677-4477-92cb-48de4a77ef6b.png)
-
-
 
 ## LinuxCj7 :
 * Instala **Distribuciones Linux** en Termux.
@@ -41,8 +37,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/LinuxCj7 `
 
 * ` cd LinuxCj7 `
