@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220523-171009_Termux](https://user-images.githubusercontent.com/81049859/169906640-946873bd-b677-4477-92cb-48de4a77ef6b.png)
+![Screenshot_20221228-010136_Termux](https://user-images.githubusercontent.com/81049859/209760743-4230de43-acfc-45e3-9cc9-cb194769006b.png)
 
 ## LinuxCj7 :
 * Instala **Distribuciones Linux** en Termux.
