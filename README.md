@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000285754](https://github.com/Juliocj7/LinuxCj7/assets/81049859/a3629e1f-9ab9-435a-9916-4023101f8f4f)
 
 ## LinuxCj7 :
-* Instala **Distribuciones Linux** en Termux.
+* Instala **distribuciones linux** en Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -54,17 +54,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/LinuxCj7 `
-
-* ` cd LinuxCj7 `
-
-* ` chmod +x * `
-
-* ` ./LinuxCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/LinuxCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd LinuxCj7 && chmod +x * && ./LinuxCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
