@@ -45,6 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000285754](https://github.com/Juliocj7/LinuxCj7/assets/81049859/a3629e1f-9ab9-435a-9916-4023101f8f4f)
 
+<div align="center">
+
+  > Super remake of: [**`distrux`**](https://github.com/Darkmux/distrux)
+
+</div>
+
 ## LinuxCj7 :
 * Instalación de **distribuciones linux** para Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
